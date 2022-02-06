@@ -45,11 +45,11 @@ finity.theme = { -- light
 	dropdown_text = Color3.fromRGB(112, 112, 112),
 	dropdown_text_hover = Color3.fromRGB(50, 50, 50),
 	dropdown_scrollbar_color = Color3.fromRGB(198, 189, 202),
-
+	
 	button_background = Color3.fromRGB(198, 189, 202),
 	button_background_hover = Color3.fromRGB(215, 206, 227),
 	button_background_down = Color3.fromRGB(178, 169, 182),
-
+	
 	scrollbar_color = Color3.fromRGB(198, 189, 202),
 }
 
@@ -62,8 +62,6 @@ finity.dark_theme = { -- dark
 	category_button_background = Color3.fromRGB(63, 62, 65),
 	category_button_border = Color3.fromRGB(72, 71, 74),
 
-	checkbox_alt = Color3.fromRGB(255, 105, 180),
-	checkbox_disabled = Color3.fromRGB(255, 69, 0),
 	checkbox_checked = Color3.fromRGB(132, 255, 130),
 	checkbox_outer = Color3.fromRGB(84, 81, 86),
 	checkbox_inner = Color3.fromRGB(132, 132, 136),
@@ -83,11 +81,11 @@ finity.dark_theme = { -- dark
 	dropdown_text = Color3.fromRGB(195, 195, 195),
 	dropdown_text_hover = Color3.fromRGB(232, 232, 232),
 	dropdown_scrollbar_color = Color3.fromRGB(118, 118, 121),
-
+	
 	button_background = Color3.fromRGB(103, 103, 106),
 	button_background_hover = Color3.fromRGB(137, 137, 141),
 	button_background_down = Color3.fromRGB(70, 70, 81),
-
+	
 	scrollbar_color = Color3.fromRGB(118, 118, 121),
 }
 
