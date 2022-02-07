@@ -26,7 +26,7 @@ finity.theme = { -- light
 	category_button_background = Color3.fromRGB(223, 219, 228),
 	category_button_border = Color3.fromRGB(200, 196, 204),
 
-	checkbox_checked = Color3.fromRGB(114, 214, 112),
+	checkbox_checked = Color3.fromRGB(64, 224, 208),
 	checkbox_outer = Color3.fromRGB(198, 189, 202),
 	checkbox_inner = Color3.fromRGB(249, 239, 255),
 
@@ -62,7 +62,7 @@ finity.dark_theme = { -- dark
 	category_button_background = Color3.fromRGB(63, 62, 65),
 	category_button_border = Color3.fromRGB(72, 71, 74),
 
-	checkbox_checked = Color3.fromRGB(132, 255, 130),
+	checkbox_checked = Color3.fromRGB(64, 224, 208),
 	checkbox_outer = Color3.fromRGB(84, 81, 86),
 	checkbox_inner = Color3.fromRGB(132, 132, 136),
 
